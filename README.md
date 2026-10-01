@@ -9,7 +9,7 @@
 
 > 所有处理都在你自己的浏览器里完成，截图不会上传到任何地方。
 
-### 👉 [在线使用](https://你的用户名.github.io/仓库名/)
+### 👉 [在线使用](https://kalyanirohga.github.io/Chandrahas/)
 
 不想联网，也可以在 [Releases](../../releases) 里下载 `index.html`，双击本地文件就能用。
 
